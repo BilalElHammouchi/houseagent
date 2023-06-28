@@ -29,10 +29,9 @@ The application's backend is built with Flask, which handles the machine learnin
 
 ## Screenshots
 
-![Measurements Page](https://github.com/GoldenDovah/houseagent/assets/19519174/d26feb8b-7369-479d-8849-cecac8191e4c)
+![Measurements Page](https://github.com/GoldenDovah/houseagent/assets/19519174/216ec9f8-2c39-45c7-a102-5611f398e5a5)
 
-
-![Chat Page](https://github.com/GoldenDovah/houseagent/assets/19519174/cb9670e6-3845-4efb-a006-c358083dd180)
+![Chat Page](https://github.com/GoldenDovah/houseagent/assets/19519174/17c2de7c-df40-473b-a71b-809982dec123)
 
 
 ## Technologies Used
@@ -44,7 +43,7 @@ The application's backend is built with Flask, which handles the machine learnin
 - Firebase
 - PythonAnywhere
 
-![architecture](https://github.com/GoldenDovah/houseagent/assets/19519174/22268caa-bdf8-4c05-8e8b-a0dee6bfe4e1)
+![architecture](https://github.com/GoldenDovah/houseagent/assets/19519174/6137d3d3-10ef-44e9-bde7-77384a778a5f)
 
 
 ## Setup and Usage
